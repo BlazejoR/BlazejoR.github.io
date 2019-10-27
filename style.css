@@ -1,0 +1,66 @@
+body {
+	background-color: #EEEEEE;
+	color: #000000;
+	font-family: Calibri;
+}
+
+font {
+	font-size: 40px;
+}
+
+.yt {
+	width: 150px;
+	height: 100px;
+	position: relative;
+	right: 75px;
+}
+
+.ytb {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 30px;
+	padding-left: 30px;
+	font-family: Arial;
+	background: #FF0000;
+	color: #FFFFFF;
+	transition: all 0.25s;
+	text-decoration: none;
+}
+
+.ytb:hover {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-right: 36px;
+	padding-left: 36px;
+	background: #FF6666;
+	transition: all 0.25s;
+}
+
+.gh {
+	width: 150px;
+	height: 100px;
+	margin: -100px;
+	position: relative;
+	left: 75px;
+}
+
+.ghb {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 30px;
+	padding-left: 30px;
+	font-family: Arial;
+	background: #333333;
+	color: #FFFFFF;
+	transition: all 0.25s;
+	text-decoration: none;
+}
+
+.ghb:hover {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-right: 36px;
+	padding-left: 36px;
+	background: #666666;
+	transition: all 0.25s;
+}
